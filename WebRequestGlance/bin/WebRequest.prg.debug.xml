@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/manifest.xml"/>
+<pcToLineNum>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="1" lineNum="18" parent="globals/WebRequestDelegate" pc="268435456" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="1" lineNum="19" parent="globals/WebRequestDelegate" pc="268435460" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="1" lineNum="20" parent="globals/WebRequestDelegate" pc="268435482" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="1" lineNum="21" parent="globals/WebRequestDelegate" pc="268435492" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="1" lineNum="22" parent="globals/WebRequestDelegate" pc="268435504" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="2" lineNum="27" parent="globals/WebRequestDelegate" pc="268435508" symbol="onMenu"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="2" lineNum="28" parent="globals/WebRequestDelegate" pc="268435512" symbol="onMenu"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="2" lineNum="29" parent="globals/WebRequestDelegate" pc="268435524" symbol="onMenu"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="3" lineNum="34" parent="globals/WebRequestDelegate" pc="268435528" symbol="onSelect"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="3" lineNum="35" parent="globals/WebRequestDelegate" pc="268435532" symbol="onSelect"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="3" lineNum="36" parent="globals/WebRequestDelegate" pc="268435544" symbol="onSelect"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="4" lineNum="40" parent="globals/WebRequestDelegate" pc="268435548" symbol="&lt;globals/WebRequestDelegate/&lt;&gt;makeRequest&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="4" lineNum="41" parent="globals/WebRequestDelegate" pc="268435552" symbol="&lt;globals/WebRequestDelegate/&lt;&gt;makeRequest&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="4" lineNum="43" parent="globals/WebRequestDelegate" pc="268435575" symbol="&lt;globals/WebRequestDelegate/&lt;&gt;makeRequest&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="4" lineNum="50" parent="globals/WebRequestDelegate" pc="268435637" symbol="&lt;globals/WebRequestDelegate/&lt;&gt;makeRequest&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="5" lineNum="61" parent="globals/WebRequestDelegate" pc="268435683" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="5" lineNum="62" parent="globals/WebRequestDelegate" pc="268435687" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="5" lineNum="63" parent="globals/WebRequestDelegate" pc="268435698" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="5" lineNum="65" parent="globals/WebRequestDelegate" pc="268435721" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="6" lineNum="13" parent="globals/WebRequestDelegate" pc="268436410" symbol="&lt;init&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestDelegate.mc" id="6" lineNum="13" parent="globals/WebRequestDelegate" pc="268436410" symbol="&lt;init&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="8" lineNum="17" parent="globals/WidgetGlanceView" pc="268435757" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="8" lineNum="18" parent="globals/WidgetGlanceView" pc="268435761" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="9" lineNum="23" parent="globals/WidgetGlanceView" pc="268435784" symbol="onLayout"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="10" lineNum="27" parent="globals/WidgetGlanceView" pc="268435789" symbol="onShow"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="11" lineNum="32" parent="globals/WidgetGlanceView" pc="268435794" symbol="onUpdate"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="11" lineNum="33" parent="globals/WidgetGlanceView" pc="268435798" symbol="onUpdate"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="11" lineNum="34" parent="globals/WidgetGlanceView" pc="268435834" symbol="onUpdate"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="11" lineNum="35" parent="globals/WidgetGlanceView" pc="268435846" symbol="onUpdate"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="12" lineNum="41" parent="globals/WidgetGlanceView" pc="268435938" symbol="onHide"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="46" parent="globals/WidgetGlanceView" pc="268435943" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="47" parent="globals/WidgetGlanceView" pc="268435947" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="48" parent="globals/WidgetGlanceView" pc="268435961" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="49" parent="globals/WidgetGlanceView" pc="268435974" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="51" parent="globals/WidgetGlanceView" pc="268435988" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="52" parent="globals/WidgetGlanceView" pc="268436001" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="53" parent="globals/WidgetGlanceView" pc="268436014" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="54" parent="globals/WidgetGlanceView" pc="268436038" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="13" lineNum="57" parent="globals/WidgetGlanceView" pc="268436123" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="14" lineNum="13" parent="globals/WidgetGlanceView" pc="268436372" symbol="&lt;init&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WidgetGlanceView.mc" id="14" lineNum="13" parent="globals/WidgetGlanceView" pc="268436372" symbol="&lt;init&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="16" lineNum="16" parent="globals/WebRequestView" pc="268436429" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="16" lineNum="17" parent="globals/WebRequestView" pc="268436433" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="17" lineNum="22" parent="globals/WebRequestView" pc="268436456" symbol="onLayout"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="18" lineNum="26" parent="globals/WebRequestView" pc="268436461" symbol="onShow"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="19" lineNum="31" parent="globals/WebRequestView" pc="268436466" symbol="onUpdate"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="19" lineNum="32" parent="globals/WebRequestView" pc="268436470" symbol="onUpdate"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="19" lineNum="33" parent="globals/WebRequestView" pc="268436506" symbol="onUpdate"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="19" lineNum="34" parent="globals/WebRequestView" pc="268436518" symbol="onUpdate"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="20" lineNum="39" parent="globals/WebRequestView" pc="268436610" symbol="onHide"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="44" parent="globals/WebRequestView" pc="268436615" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="45" parent="globals/WebRequestView" pc="268436619" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="46" parent="globals/WebRequestView" pc="268436633" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="47" parent="globals/WebRequestView" pc="268436646" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="49" parent="globals/WebRequestView" pc="268436660" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="50" parent="globals/WebRequestView" pc="268436673" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="51" parent="globals/WebRequestView" pc="268436686" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="52" parent="globals/WebRequestView" pc="268436710" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="21" lineNum="55" parent="globals/WebRequestView" pc="268436795" symbol="onReceive"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="22" lineNum="12" parent="globals/WebRequestView" pc="268436842" symbol="&lt;init&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestView.mc" id="22" lineNum="12" parent="globals/WebRequestView" pc="268436842" symbol="&lt;init&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="24" lineNum="15" parent="globals/WebRequestApp" pc="268436140" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="24" lineNum="16" parent="globals/WebRequestApp" pc="268436144" symbol="initialize"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="25" lineNum="21" parent="globals/WebRequestApp" pc="268436163" symbol="onStart"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="26" lineNum="26" parent="globals/WebRequestApp" pc="268436168" symbol="onStop"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="27" lineNum="30" parent="globals/WebRequestApp" pc="268436173" symbol="getGlanceView"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="27" lineNum="31" parent="globals/WebRequestApp" pc="268436177" symbol="getGlanceView"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="27" lineNum="32" parent="globals/WebRequestApp" pc="268436205" symbol="getGlanceView"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="27" lineNum="33" parent="globals/WebRequestApp" pc="268436249" symbol="getGlanceView"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="28" lineNum="38" parent="globals/WebRequestApp" pc="268436267" symbol="getInitialView"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="28" lineNum="39" parent="globals/WebRequestApp" pc="268436271" symbol="getInitialView"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="28" lineNum="40" parent="globals/WebRequestApp" pc="268436299" symbol="getInitialView"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="28" lineNum="41" parent="globals/WebRequestApp" pc="268436343" symbol="getInitialView"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="29" lineNum="12" parent="globals/WebRequestApp" pc="268436391" symbol="&lt;init&gt;"/>
+<entry filename="/Users/aronsommer/Documents/Garmin-Projects/WebRequest/source/WebRequestApp.mc" id="29" lineNum="12" parent="globals/WebRequestApp" pc="268436391" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="31" lineNum="2" parent="globals/Rez/Drawables" pc="268436836" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="32" lineNum="6" parent="globals/Rez/Fonts" pc="268436838" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="33" lineNum="8" parent="globals/Rez/JsonData" pc="268436840" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="34" lineNum="10" parent="globals/Rez/Layouts" pc="268436839" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="35" lineNum="12" parent="globals/Rez/Menus" pc="268436837" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="36" lineNum="14" parent="globals/Rez/Strings" pc="268436841" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="37" lineNum="1" parent="globals/Rez" pc="268436812" symbol="&lt;init&gt;"/>
+<entry filename="Rez" id="37" lineNum="1" parent="globals/Rez" pc="268436812" symbol="&lt;init&gt;"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry id="10" object="true" symbol="WidgetGlanceView"/>
+<entry id="4" module="true" symbol="globals/Rez/Menus"/>
+<entry id="16" method="true" symbol="&lt;globals/WebRequestDelegate/&lt;&gt;makeRequest&gt;"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry field="true" id="20" symbol="AppName"/>
+<entry field="true" id="21" symbol="&lt;globals/WebRequestView/&lt;&gt;_message&gt;"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="11" object="true" symbol="WebRequestView"/>
+<entry id="8389594" symbol="headers"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry id="9" object="true" symbol="WebRequestDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="18" module="true" symbol="Menus"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="12" object="true" symbol="WebRequestApp"/>
+<entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="8388637" module="true" symbol="Communications"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry field="true" id="13" symbol="&lt;globals/WidgetGlanceView/&lt;&gt;_message&gt;"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="14" method="true" symbol="onReceive"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="19" symbol="LauncherIcon"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="15" symbol="&lt;globals/WebRequestDelegate/&lt;&gt;_notify&gt;"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="17" module="true" symbol="Layouts"/>
+<entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+<entry id="8391457" method="true" symbol="getGlanceView"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry arg="true" endPc="268435507" name="handler" stackId="1" startPc="268435456"/>
+<entry endPc="268435681" name="options" stackId="1" startPc="268435552"/>
+<entry arg="true" endPc="268435756" name="responseCode" stackId="1" startPc="268435683"/>
+<entry arg="true" endPc="268435756" name="data" stackId="2" startPc="268435683"/>
+<entry arg="true" endPc="268435788" name="dc" stackId="1" startPc="268435784"/>
+<entry arg="true" endPc="268435937" name="dc" stackId="1" startPc="268435794"/>
+<entry endPc="268436119" name="i" stackId="3" startPc="268436038"/>
+<entry endPc="268436119" name="keys" stackId="2" startPc="268435988"/>
+<entry arg="true" endPc="268436139" name="args" stackId="1" startPc="268435943"/>
+<entry arg="true" endPc="268436460" name="dc" stackId="1" startPc="268436456"/>
+<entry arg="true" endPc="268436609" name="dc" stackId="1" startPc="268436466"/>
+<entry endPc="268436791" name="i" stackId="3" startPc="268436710"/>
+<entry endPc="268436791" name="keys" stackId="2" startPc="268436660"/>
+<entry arg="true" endPc="268436811" name="args" stackId="1" startPc="268436615"/>
+<entry arg="true" endPc="268436167" name="state" stackId="1" startPc="268436163"/>
+<entry arg="true" endPc="268436172" name="state" stackId="1" startPc="268436168"/>
+<entry endPc="268436265" name="view" stackId="1" startPc="268436177"/>
+<entry endPc="268436265" name="delegate" stackId="2" startPc="268436177"/>
+<entry endPc="268436369" name="view" stackId="1" startPc="268436271"/>
+<entry endPc="268436369" name="delegate" stackId="2" startPc="268436271"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/WidgetGlanceView" offset="166" parentId="globals" symbolId="WidgetGlanceView" type="class"/>
+<dataEntry label="globals/WebRequestApp" offset="261" parentId="globals" symbolId="WebRequestApp" type="class"/>
+<dataEntry label="globals/WebRequestDelegate" offset="340" parentId="globals" symbolId="WebRequestDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="1047" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/Rez/Drawables" offset="1126" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="1165" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="1196" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="1227" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="1258" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="1289" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/WebRequestView" offset="1328" parentId="globals" symbolId="WebRequestView" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268435507" name="initialize" parent="WebRequestDelegate" startPc="268435456">
+<param id="handler"/>
+<documentation><![CDATA[<div class="description"> Set up the callback to the view<br/> <div class="param"> handler Callback method for when data is received</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435527" name="onMenu" parent="WebRequestDelegate" startPc="268435508">
+<documentation><![CDATA[<div class="description"> On a menu event, make a web request<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435547" name="onSelect" parent="WebRequestDelegate" startPc="268435528">
+<documentation><![CDATA[<div class="description"> On a select event, make a web request<br/> <div class="returns">Returns  true if handled, false otherwise</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="private" endPc="268435682" name="&lt;globals/WebRequestDelegate/&lt;&gt;makeRequest&gt;" parent="WebRequestDelegate" startPc="268435548">
+<documentation><![CDATA[<div class="description"> Make the web request<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435756" name="onReceive" parent="WebRequestDelegate" startPc="268435683">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation><![CDATA[<div class="description"> Receive the data from the web request<br/> <div class="param"> responseCode The server response code</div><br/> <div class="param"> data Content from a successful request</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436428" name="&lt;init&gt;" parent="WebRequestDelegate" startPc="268436410">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435783" name="initialize" parent="WidgetGlanceView" startPc="268435757">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435788" name="onLayout" parent="WidgetGlanceView" startPc="268435784">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435793" name="onShow" parent="WidgetGlanceView" startPc="268435789">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435937" name="onUpdate" parent="WidgetGlanceView" startPc="268435794">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268435942" name="onHide" parent="WidgetGlanceView" startPc="268435938">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of your app here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436139" name="onReceive" parent="WidgetGlanceView" startPc="268435943">
+<param id="args"/>
+<documentation><![CDATA[<div class="description"> Show the result or status of the web request<br/> <div class="param"> args Data from the web request, or error message</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436390" name="&lt;init&gt;" parent="WidgetGlanceView" startPc="268436372">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436455" name="initialize" parent="WebRequestView" startPc="268436429">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436460" name="onLayout" parent="WebRequestView" startPc="268436456">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Load your resources here<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436465" name="onShow" parent="WebRequestView" startPc="268436461">
+<documentation><![CDATA[<div class="description"> Restore the state of the app and prepare the view to be shown<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436609" name="onUpdate" parent="WebRequestView" startPc="268436466">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Update the view<br/> <div class="param"> dc Device Context</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436614" name="onHide" parent="WebRequestView" startPc="268436610">
+<documentation><![CDATA[<div class="description"> Called when this View is removed from the screen. Save the<br/> state of your app here.<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436811" name="onReceive" parent="WebRequestView" startPc="268436615">
+<param id="args"/>
+<documentation><![CDATA[<div class="description"> Show the result or status of the web request<br/> <div class="param"> args Data from the web request, or error message</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436860" name="&lt;init&gt;" parent="WebRequestView" startPc="268436842">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436162" name="initialize" parent="WebRequestApp" startPc="268436140">
+<documentation><![CDATA[<div class="description"> Constructor<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436167" name="onStart" parent="WebRequestApp" startPc="268436163">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> Handle app startup<br/> <div class="param"> state Startup arguments</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436172" name="onStop" parent="WebRequestApp" startPc="268436168">
+<param id="state"/>
+<documentation><![CDATA[<div class="description"> Handle app shutdown<br/> <div class="param"> state Shutdown arguments</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436266" name="getGlanceView" parent="WebRequestApp" startPc="268436173">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436370" name="getInitialView" parent="WebRequestApp" startPc="268436267">
+<documentation><![CDATA[<div class="description"> Return the initial view for the app<br/> <div class="returns">Returns  Array Pair [View, Delegate]</div><br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436409" name="&lt;init&gt;" parent="WebRequestApp" startPc="268436391">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436836" name="&lt;init&gt;" parent="Drawables" startPc="268436836">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436838" name="&lt;init&gt;" parent="Fonts" startPc="268436838">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436840" name="&lt;init&gt;" parent="JsonData" startPc="268436840">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436839" name="&lt;init&gt;" parent="Layouts" startPc="268436839">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436837" name="&lt;init&gt;" parent="Menus" startPc="268436837">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436841" name="&lt;init&gt;" parent="Strings" startPc="268436841">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="protected" endPc="268436835" name="&lt;init&gt;" parent="Rez" startPc="268436812">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
